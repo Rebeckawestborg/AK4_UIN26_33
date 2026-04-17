@@ -1,5 +1,5 @@
 {
-  "name": "ak4_uin26_33",
+  "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@sanity/client": "^7.21.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
