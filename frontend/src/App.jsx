@@ -3,8 +3,10 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import {Route, Routes} from 'react-router-dom'
-import Layout from '../components/Layout'
+import Layout from './components/Layout'
+import Home from './pages/Home'
 import './App.css'
+import './style/Amanda.scss'
 
 function App() {
 
