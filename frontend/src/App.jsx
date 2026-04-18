@@ -1,7 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+//import { useState } from 'react'
 import {Route, Routes} from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './pages/Home'

@@ -4,7 +4,7 @@ export default function Amanda(){
         <article>
         <h2>Amanda Jeanette Slettli</h2>
         <img src="/profil_img/anonym.png" alt="profil bilde"/>
-        <section>
+        <section className="Info">
              <h3>Informasjon:</h3>
              <p>Epost: <Link>amandajs@hiof.no</Link></p>
              <p>Bachelorstudie: Digitale medier og design</p>

@@ -6,13 +6,12 @@ article{
     padding: 1em;
     color: black;
     width: 350px;
-    height: 200px;
     border-radius: 1em;
     h2{
         color: black;
         width: 100%;
     }
-    section{
+    .Info{
         display: flex;
         flex-direction: column;
         text-align: left;
@@ -28,4 +27,21 @@ article{
 img{
     width: 100px;
     height: 100px;
+}
+#AK{
+    display: flex;
+    background-color: white;
+    padding: 1em;
+    margin: 1em 0;
+    color: black;
+    gap: 1em;
+    article{
+        border: 2px solid black;
+        border-radius: 0%;
+        width: 400px;
+    }
+    h2{
+        color: black;
+        text-align: start;
+    }
 }
