@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import assigment from './assigment';
+export const schemaTypes = [assigment]
