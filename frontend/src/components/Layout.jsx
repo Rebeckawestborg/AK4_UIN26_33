@@ -5,8 +5,8 @@ export default function Layout(){
         <>
         <header>
             <h1>Gruppe 33</h1>
-            <Amanda/>
         </header>
+        <Amanda/>
         <Outlet/>
         </>
     )

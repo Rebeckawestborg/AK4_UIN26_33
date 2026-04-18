@@ -1,12 +1,31 @@
 article{
+    display: flex;
     background-color: white;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1em;
     color: black;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 200px;
+    border-radius: 1em;
     h2{
         color: black;
+        width: 100%;
+    }
+    section{
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        width: 60%;
+        h3{
+            margin: 0;
+        }
+        a{
+            color: rgb(17, 0, 255);
+        }
     }
 }
 img{
-    width:50px;
+    width: 100px;
+    height: 100px;
 }
