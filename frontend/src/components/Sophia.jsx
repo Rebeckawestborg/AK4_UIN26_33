@@ -1,16 +1,18 @@
-import "./Sophia.css";
+import "./sophia.css";
+import sophiaImg from "./philippasophia.png";
 
 export default function Sophia() {
   return (
     <>
-    <p>Sophia Philippa Bildsten Helseth</p>
-      <p>Min e-post: {" "}
-      <a href="mailto:sphelset@hiof.no">sphelset@hiof.no</a></p>
-      <p><strong>Sophia</strong></p>
     <article className="om-meg-innhold">
-      <img src="philippasophia.png" alt="sophia" className="sophia-img"  />
+      <img src={sophiaImg} alt="sophia" className="sophia-img" />
+      <p><strong>Sophia Bildsten Helseth</strong></p>
       <p><strong>Bachelorstudium i Digitale medier og design</strong></p>
+      <div>
+      <p><strong>Min e-post: {" "}</strong></p>
+      <a href="mailto:sphelset@hiof.no"><strong>sphelset@hiof.no</strong></a>
+      </div>
     </article>
-    </>
+      </>
   );
 }
