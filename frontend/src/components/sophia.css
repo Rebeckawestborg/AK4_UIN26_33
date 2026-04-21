@@ -1,0 +1,12 @@
+.om-meg-innhold {
+padding:6px;
+max-width:125px;
+border-radius: 4px;
+text-align:center;
+border: 1px solid #ccc;
+}
+
+.sophia-img {
+  border-radius: 25%;
+  width: 20%
+}
