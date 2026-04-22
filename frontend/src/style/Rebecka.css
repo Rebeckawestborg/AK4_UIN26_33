@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.rebecka-card img {
+    width: 100px;
+    height: 140px;
+    border-radius: 20%;
+}
+
+article h1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: 0px;
+    padding: 20px;
+}
+
+article ul {
+    list-style: none;
+    text-align: left;
+    padding: 0px;
+    
+}
