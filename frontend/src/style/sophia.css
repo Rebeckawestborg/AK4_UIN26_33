@@ -1,0 +1,25 @@
+.om-meg-innhold {
+padding:6px;
+max-width:125px;
+border-radius: 4px;
+padding:14px;
+max-width:100%;
+border-radius: 13px;
+text-align:center;
+border: 1px solid #ccc;
+justify-content:center;
+border: 8px solid darkgoldenrod;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sophia-img {
+  border-radius: 25%;
+  width: 20%;
+  border-radius: 10px;
+  width: 500px;
+  height: 200px;
+}
+
+a {
+  color:#000;
+}
