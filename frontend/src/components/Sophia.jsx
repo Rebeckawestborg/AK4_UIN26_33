@@ -1,5 +1,5 @@
-import "./sophia.css";
-import sophiaImg from "./philippasophia.png";
+import '../style/sophia.css';
+import sophiaImg from '../assets/philippasophia.png';
 
 export default function Sophia() {
   return (
