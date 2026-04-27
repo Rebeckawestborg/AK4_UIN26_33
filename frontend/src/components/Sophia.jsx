@@ -5,13 +5,12 @@ export default function Sophia() {
   return (
     <>
     <article className="om-meg-innhold">
+      <h2>Sophia Bildsten Helseth</h2>
       <img src={sophiaImg} alt="sophia" className="sophia-img" />
-      <p><strong>Sophia Bildsten Helseth</strong></p>
-      <p><strong>Bachelorstudium i Digitale medier og design</strong></p>
       <div>
-      <p><strong>Min e-post: {" "}</strong></p>
-      <a href="mailto:sphelset@hiof.no"><strong>sphelset@hiof.no</strong></a>
+      <p>Epost: {" "} <a href="mailto:sphelset@hiof.no">sphelset@hiof.no</a></p>
       </div>
+      <p>Bachelorstudium i Digitale medier og design</p>
     </article>
       </>
   );
