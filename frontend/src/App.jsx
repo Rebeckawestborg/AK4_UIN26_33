@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import './App.css'
 import './style/Amanda.scss'
 import './style/Rebecka.css'
+import './style/louise.scss'
 
 function App() {
 
