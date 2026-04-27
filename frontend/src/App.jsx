@@ -4,7 +4,6 @@ import Layout from './components/Layout'
 import Home from './pages/Home'
 import './App.css'
 import './style/Amanda.scss'
-import './style/louise.scss'
 
 function App() {
 
